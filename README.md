@@ -2,7 +2,7 @@
 
 Welcome to my online portfolio! This repository contains the source code for my portfolio website, where I showcase my projects and experiences as a developer.
 
-- 🌍 **Access the portfolio online**: [rafaspeak.github.io/Portfolio-](https://rafaspeak.github.io/Portfolio-/)
+- 🌍 **Access the portfolio online**: [rafaspeak.github.io/Portfolio-](https://rafaspeak.github.io/Portfolio-Minimalista/)
 
 ## About the Project
 
